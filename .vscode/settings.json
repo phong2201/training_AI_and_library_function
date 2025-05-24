@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "format": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
